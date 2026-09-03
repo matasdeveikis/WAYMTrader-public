@@ -1,0 +1,2 @@
+learner_dates,trading_dates,z_threshold_enabled,top_k,min_mentions,position_cap,transaction_cost,buy_spy_overnight,hold_overnight,update_policy_fit_daily,allow_shorting,rolling_window,walk_forward_date,average_positions_per_day
+245,921,False,0,10,1.0,2.8e-05,False,True,True,False,90,,11.29023746701847
