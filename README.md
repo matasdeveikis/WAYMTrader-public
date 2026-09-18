@@ -4,6 +4,6 @@ Live paper-trading account performance from 2026-Aug-19 (updated each trading da
 
 ![Live paper-trading account performance](alpaca_account.png)
 
-Backtest for 2022-Jan to 2026-Aug:
+Backtest for 2022-Jan to 2026-Aug (1 year training-only):
 
 <img width="1354" height="2300" alt="image" src="https://github.com/user-attachments/assets/49a5bc5f-3017-4000-be43-c0ce9e11c74c" />
