@@ -2,7 +2,7 @@ Code for sentiment-driven trading research pipeline in Python. Signal gathering 
 
 Live paper-trading account performance from 2026-Aug-19:
 
-*placeholder for image*
+![Live paper-trading account performance](alpaca_account.png)
 
 Backtest for 2022-Jan to 2026-Aug:
 
