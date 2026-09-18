@@ -1,4 +1,8 @@
-Code for sentiment-driven trading research pipeline in Python. Signal gathering omitted from this repo, contact me if interested. Run trading_model.py with the flags given at the top of the file. Alpaca_trader.py can use new signal input for trading via Alpaca API, however credentials need to be provided.
+Code for sentiment-driven trading research pipeline in Python. Signal gathering omitted from this repo, contact me if interested. Run trading_model.py with the flags given at the top of the file. Alpaca_trader.py can use new signal input for trading via Alpaca API, however credentials need to be provided. The performance of a live paper trading account using this strategy is provided below as well.
+
+Live paper-trading account performance from 2026-Aug-19:
+
+*placeholder for image*
 
 Backtest for 2022-Jan to 2026-Aug:
 
